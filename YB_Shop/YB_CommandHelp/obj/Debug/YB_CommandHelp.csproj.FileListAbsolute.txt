@@ -1,0 +1,7 @@
+E:\Codes\ShopCode\ShopCode\YB_Shop\YB_CommandHelp\bin\Debug\YB_CommandHelp.dll
+E:\Codes\ShopCode\ShopCode\YB_Shop\YB_CommandHelp\bin\Debug\YB_CommandHelp.pdb
+E:\Codes\ShopCode\ShopCode\YB_Shop\YB_CommandHelp\bin\Debug\log4net.dll
+E:\Codes\ShopCode\ShopCode\YB_Shop\YB_CommandHelp\bin\Debug\log4net.xml
+E:\Codes\ShopCode\ShopCode\YB_Shop\YB_CommandHelp\obj\Debug\YB_CommandHelp.csprojResolveAssemblyReference.cache
+E:\Codes\ShopCode\ShopCode\YB_Shop\YB_CommandHelp\obj\Debug\YB_CommandHelp.dll
+E:\Codes\ShopCode\ShopCode\YB_Shop\YB_CommandHelp\obj\Debug\YB_CommandHelp.pdb

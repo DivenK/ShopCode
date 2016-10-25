@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop", "Shop\Shop.csproj", "{972AA8D2-E521-46F7-8186-D1188F408236}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YB_ShopWebApi", "Shop\YB_ShopWebApi.csproj", "{972AA8D2-E521-46F7-8186-D1188F408236}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YB_Shop.Tests", "YB_Shop.Tests\YB_Shop.Tests.csproj", "{4E4DCD84-62B0-4E73-91DA-F4FE40E9DD27}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YB_CommandHelp", "YB_CommandHelp\YB_CommandHelp.csproj", "{1CCBA1F4-9C0F-4B06-9F7A-77A315D1DBFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{972AA8D2-E521-46F7-8186-D1188F408236}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{972AA8D2-E521-46F7-8186-D1188F408236}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{972AA8D2-E521-46F7-8186-D1188F408236}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4E4DCD84-62B0-4E73-91DA-F4FE40E9DD27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4E4DCD84-62B0-4E73-91DA-F4FE40E9DD27}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4E4DCD84-62B0-4E73-91DA-F4FE40E9DD27}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4E4DCD84-62B0-4E73-91DA-F4FE40E9DD27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CCBA1F4-9C0F-4B06-9F7A-77A315D1DBFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CCBA1F4-9C0F-4B06-9F7A-77A315D1DBFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CCBA1F4-9C0F-4B06-9F7A-77A315D1DBFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CCBA1F4-9C0F-4B06-9F7A-77A315D1DBFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
